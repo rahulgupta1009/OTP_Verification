@@ -2,7 +2,7 @@
 We have created an application for the task of OTP verification using Python.
 We have used tkinter and smtplib module to develop OTP Verification GUI. 
 
-The steps are mentioned below:
+The steps are mentioned below :
 
 1. First, create a 6-digit random number.
 
