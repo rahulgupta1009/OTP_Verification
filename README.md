@@ -1,6 +1,6 @@
 # OTP_Verification
-We have created an application for the task of OTP verification using Python.
-We have used tkinter and smtplib module to develop OTP Verification GUI. 
+I have created an application for the task of OTP verification using Python.
+I have used tkinter and smtplib module to develop OTP Verification GUI. 
 
 The steps are mentioned below :
 
